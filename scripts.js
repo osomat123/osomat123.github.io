@@ -15,6 +15,7 @@ function addImage(src)
         img.alt = "Loading...";        
     }
 
+    img.className = "doggo-image"
     doggo.appendChild(img);
 }
 

@@ -82,6 +82,16 @@ body {
     background-color: #f86969;
 }
 
+.pics {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.doggo-image {
+    max-width: 100%;
+}
+
 .footer {
     width: 100%;
     height: 100px;
